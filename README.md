@@ -9,7 +9,7 @@ e foi controlado a partir de um controle improvisado com botões em uma protoboa
 
 ![image](https://github.com/user-attachments/assets/9e7e641d-0d03-4491-a0fc-0f383c214143)
 
-O projeto foi todo desenvolvido utilizando uma bluepill, placa de desenvolvimento com microprocessador STM32F103. e conta com um display LCD 16x2 para impressão dos ângulos aproximados de movimentação dos eixos.
+O projeto foi todo desenvolvido utilizando uma bluepill, placa de desenvolvimento com microprocessador STM32F103. e conta com um display LCD 16x2 para impressão dos ângulos aproximados de movimentação dos eixos e um potenciômetro utilizado para variar a velocidade de movimentação do braço.
 
 ![image](https://github.com/user-attachments/assets/5472725f-198c-4a55-8d3e-bdac8edd5fc2)
 
